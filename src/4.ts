@@ -55,4 +55,6 @@ const myHouse = new MyHouse(false, key, []);
 myHouse.openDoor(person.getKey());
 myHouse.comeIn(person);
 
-export {};
+// console.log(myHouse.getTenants());
+
+// export {};
